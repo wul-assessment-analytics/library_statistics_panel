@@ -30,7 +30,7 @@ import aiohttp
 
 
 # Set page title
-st.set_page_config(page_title="Instruction_Analytics_Spec", layout="wide")
+st.set_page_config(page_title="Library_Statistics_Panel", layout="wide")
 
 # # Generate list of years: current year down to 5 years ago
 # current_year = datetime.now().year
@@ -124,8 +124,8 @@ st.markdown(f"""
     
     <div class="custom-header">
         <div class="title-block">
-            <h1>Instruction Analytics (Spec) </h1>
-            <div class="subtitle">Insights into instruction, engagement, and reach</div>
+            <h1>Library Statistics Panel </h1>
+            <div class="subtitle">Insights from library statistics</div>
         </div>
          <img class="logo" src="data:image/png;base64,{img_base64}" alt="Logo">
     </div>
