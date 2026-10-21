@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+openpyxl
+scikit-learn
+sentence-transformers
+plotly
+torch
+streamlit-aggrid
+XlsxWriter
+Cython
+matplotlib
+aiohttp
