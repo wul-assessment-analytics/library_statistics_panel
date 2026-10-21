@@ -59,7 +59,7 @@ fiscal_years = [f"{y}/{str(y+1)[-2:]}" for y in years]
 #############################################################
 
 # Set dropdown options for curator name
-curators_list = pd.read_excel("curators_list.xlsx")
+# curators_list = pd.read_excel("curators_list.xlsx")
 
 
 #Now get the image as a base-64 text
