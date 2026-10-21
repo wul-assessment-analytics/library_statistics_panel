@@ -134,6 +134,10 @@ st.markdown(f"""
 
 ########################################
 
+# CONT HERE....10/21/2026....EDIT CODE TO MAKE SIDEBAR LOOK SIMILAR TO RSHINHY ONE
+# THEN INTRODUCE THE TABS FOR VARIOUS ONES LIKE IN RSHINY
+# THEN FIGURE OUT SMARTSHEET CODE...
+
 # Sidebar on the left with inputs
 
 with st.sidebar:
